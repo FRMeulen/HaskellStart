@@ -1,8 +1,0 @@
-This text file is encryptable
-Please use AssignmentSixEncrypt.hs to encrypt me! ^^
-
-But eventually use AssignmentSixDecrypt.hs on me too...
-
-
-
-...I don't like being encrypted all the time.
